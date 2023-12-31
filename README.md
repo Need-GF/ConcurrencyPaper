@@ -183,3 +183,4 @@
   - [A Case for an Interleaving Constrained Shared-Memory Multi-Processor](http://web.eecs.umich.edu/~nsatish/papers/ISCA-09-CPC.pdf) -[[Source]](https://github.com/jieyu/concurrency-bugs)
   - [The PARSEC benchmark suite: characterization and architectural implications (2008)](https://dl.acm.org/doi/pdf/10.1145/1454115.1454128) -[[Source]](https://parsec.cs.princeton.edu/index.htm)
   - [Experience with a Concurrency Bugs Benchmark (2008) (JAVA)](https://personal.cis.strath.ac.uk/marc.roper/TESTBENCH08/Papers/tzoref.pdf)
+  - [DataRaceBench: A Benchmark Suite for Systematic Evaluation of Data Race Detection Tools (SC 2017) (https://dl.acm.org/doi/pdf/10.1145/3126908.3126958)
